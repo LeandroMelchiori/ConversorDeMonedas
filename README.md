@@ -1,4 +1,4 @@
-# Conversor de Monedas
+# 💱 Conversor de Monedas
 
 Este proyecto es una aplicación de consola en Java que permite realizar conversiones entre distintas monedas usando la API [ExchangeRate-API](https://www.exchangerate-api.com/). El usuario puede seleccionar las monedas base y objetivo, así como ingresar el monto que desea convertir.
 
